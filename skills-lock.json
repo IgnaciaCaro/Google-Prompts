@@ -8,6 +8,12 @@
       "skillPath": ".agents/skills/brand-voice/SKILL.md",
       "computedHash": "d33cfb486adbbae7f304b3d334113c9f8b454c504797cfe528d89ff26f301a45"
     },
+    "quality": {
+      "source": "thedaviddias/Front-End-Checklist",
+      "sourceType": "github",
+      "skillPath": "skills/quality/SKILL.md",
+      "computedHash": "9d852c5dc84ef3b7f9726216a66ec25f4b642d211e70961aae4cc154ca356319"
+    },
     "seo": {
       "source": "affaan-m/ECC",
       "sourceType": "github",
