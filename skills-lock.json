@@ -1,6 +1,13 @@
 {
   "version": 1,
   "skills": {
+    "brand-voice": {
+      "source": "affaan-m/ECC",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/brand-voice/SKILL.md",
+      "computedHash": "d33cfb486adbbae7f304b3d334113c9f8b454c504797cfe528d89ff26f301a45"
+    },
     "seo": {
       "source": "affaan-m/ECC",
       "sourceType": "github",
